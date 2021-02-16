@@ -1,0 +1,4 @@
+*.v2
+*.suo
+/QuickThreadSorting/obj
+/QuickThreadSorting/bin/Debug/netcoreapp3.1
