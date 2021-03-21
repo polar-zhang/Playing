@@ -2,3 +2,7 @@
 *.suo
 /QuickThreadSorting/obj
 /QuickThreadSorting/bin/Debug/netcoreapp3.1
+/CountingSort/.vs/CountingSort/v16
+/CountingSort/Debug
+*.filters
+*.user
